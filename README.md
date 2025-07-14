@@ -25,6 +25,7 @@ A modern, fully responsive real estate website built with **React.js** and **Tai
 ## 📸 Screenshots
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8fd7679-def0-4fc3-b23c-bc34cc30c37f" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/eccb80b4-c1cd-4f2a-94bf-f2d630c081bf" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0cf49dcc-bd30-4daf-a930-ed49aa9d522c" />
 
 
 
