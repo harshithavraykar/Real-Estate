@@ -1,9 +1,59 @@
-# Real Estate Project
+# 🏠 Real Estate Website
 
-A responsive real estate website built using React, Vite, and Tailwind CSS.
+A modern, fully responsive real estate website built with **React.js** and **Tailwind CSS**
 
-## Features
+---
 
-- Clean UI
-- Mobile responsive
-- Built with React + Vite
+## 🚀 Features
+
+- 🧼 Clean, modern UI/UX
+- 🧭 Navigation bar and footer components
+- 🏘️ Hero section with background image
+- 🏡 Featured properties/projects section
+- 👥 Testimonials section
+- 📩 Contact form
+- 📱 Fully responsive on all screen sizes
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Live Site](https://real-estate-raykar.netlify.app/)  
+
+---
+
+## 📸 Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8fd7679-def0-4fc3-b23c-bc34cc30c37f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/eccb80b4-c1cd-4f2a-94bf-f2d630c081bf" />
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **React JS**
+- **Tailwind CSS**
+- **Vite** (for faster dev server & build)
+
+---
+
+## 📁 Folder Structure
+├── public/
+│ └── header_img.png
+├── src/
+│ ├── assets/
+│ ├── components/
+│ │ ├── About.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Footer.jsx
+│ │ ├── Header.jsx
+│ │ ├── Navbar.jsx
+│ │ ├── Projects.jsx
+│ │ └── Testimonials.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
