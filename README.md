@@ -18,7 +18,7 @@ A modern, fully responsive real estate website built with **React.js** and **Tai
 
 ## 🌐 Live Demo
 
-🔗 [Live Site](https://real-estate-raykar.netlify.app/)  
+🔗 [Live Site](https://raykar-estate.netlify.app/)  
 
 ---
 
